@@ -5,7 +5,7 @@ public class Examen {
         Scanner leer = new Scanner(System.in); // el leer es para que pueda leer mis variables definidad por el string 
         String respuesta, multijugador, graficos ;
         
-        //hago mi pregunta
+        //realiza las preguntas para que el usuario responda 
         System.out.println("de que genero quieres tus juegos?? ");
         System.out.println("tengo de aventura, deportes y estrategia");
         respuesta = leer.nextLine();
