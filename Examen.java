@@ -51,7 +51,7 @@ public class Examen {
         }else {
             System.out.println("Explora nuestro catálogo para más opciones");
         }
-        
+        //cerrar leer 
         leer.close();  
         }
     }
